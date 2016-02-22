@@ -7,3 +7,6 @@ server.R
 
 The shiny app can be found in the following link:
 https://pqklm321.shinyapps.io/DevelopingDataProduct-Project/
+
+Hitgub hosted slidify presentation of this project can be found in the link below:
+http://pqklm321.github.io/DevelopingDataProduct-Project-slides/index.html
